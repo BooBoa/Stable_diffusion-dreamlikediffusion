@@ -1,7 +1,12 @@
 # Stable_diffusion-dreamlikediffusion
-google colab notebook for generating txt2image images in either stable diffusion 2.1 model or dreamlike diffusion model 1.0
 
-very basic notebook for ease of use
+## Models
+1. dreamlike-art/dreamlike-diffusion-1.0
+2. stabilityai/stable-diffusion-2-1
 
-the model will generate an image from the initial selected seed and save, then the next image will be generated from seed +100
-i prefer a low increment increase in the seed for ease of veiwing but can be adjusted in the code
+### Features
+1. Currently create images upto 1280x720
+2. Img2Img and many more features coming soon.
+
+
+
