@@ -9,4 +9,4 @@
 2. Img2Img and many more features coming soon.
 
 
-
+1920x1080 is possible**
