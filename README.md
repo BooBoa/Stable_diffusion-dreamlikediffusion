@@ -6,7 +6,6 @@
 
 ### Features
 1. Currently create images upto 1280x720
-2. Img2Img and many more features coming soon.
 
 
 
