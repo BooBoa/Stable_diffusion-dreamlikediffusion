@@ -1,4 +1,6 @@
-# Stable_diffusion-dreamlikediffusion
+# Stable_diffusion/booboa
+
+a simple to use google colab notebook for experimenting with the brilliant image generation models produced by the huggingface community
 
 ## Model's
 
